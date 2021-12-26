@@ -5,7 +5,7 @@ paginate: 5
 title: Emma's World
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: emma-d-blog
 
 # GA Tracking ID
 googleAnalytics:
@@ -182,7 +182,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/jumiemma
           params:
             icon: brand-github
             
