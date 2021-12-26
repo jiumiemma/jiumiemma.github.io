@@ -3,7 +3,7 @@ title: "Marshal on the Stone"
 date: 2021-12-25T19:52:50-08:00
 slug: marshal-stone
 image: marshal_stone.jpg
-draft: true
+draft: false
 categories:
   - Marshal
 tags:
