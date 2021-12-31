@@ -178,12 +178,7 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-        - identifier: pencil
-          name: Pencil
-          url: /page/pencil.html
-          params:
-              icon: infinity
-              newTab: false
+
     
     social:
         - identifier: github

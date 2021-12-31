@@ -8,8 +8,7 @@ categories:
   - Marshal
 tags:
   - Marshal
-  - picture
-  - animal
+  - Animal
 ---
 
 ![Marshal on the Stone](marshal_stone.jpg)
